@@ -1,0 +1,74 @@
+[
+  {
+    "cityId": 1,
+    "name": "Mumbai",
+    "landmarks": [
+      {
+        "landmarkId": 15,
+        "name": "Gateway of India",
+        "photo":"goi",
+        "description":"The Gateway of India is an arch-monument built in the early twentieth century in the city of Mumbai, in the Indian state of Maharashtra. It was erected to commemorate the landing in December 1911 at Apollo Bunder, Mumbai (then Bombay) of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India."
+      },
+      {
+        "landmarkId": 22,
+        "name": "Marine Drive",
+        "photo":"md",
+        "description":"Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in South Mumbai in the city of Mumbai, India. Often, the names Marine Drive and Netaji Subhash Chandra Bose Road are used interchangeably to refer to this 3.9km stretch."
+      }
+    ]
+  },
+  {
+    "cityId": 3,
+    "name": "Bengaluru",
+    "landmarks": [
+      {
+        "landmarkId": 15,
+        "name": "Lalbagh Botanical Garden",
+        "photo":"lbg",
+        "description":"Lalbagh Botanical Gardens or Lalbagh is an old botanical garden in Bengaluru, India. First planned and laid out during the rule of Hyder Ali and later adorned with unique plant species by his son Tipu Sultan, it was later managed under numerous British Superintendents before Indian Independence. It was responsible for the introduction and propagation of numerous ornamental plants as well as those of economic value. It also served a social function as a park and recreational space, with a central glass house dating from 1890 which was used for flower shows. In modern times it hosts two flower shows coinciding with the week of Republic Day and Independence Day. As an urban green space along with Cubbon Park, it is also home to numerous wild species of birds and other wildlife. The garden also has a lake adjoining a large rock on which a watchtower had been constructed during the reign of Kempegowda."
+      },
+      {
+        "landmarkId": 22,
+        "name": "Bangalore Fort",
+        "photo":"bf",
+        "description":"Bangalore Fort began in 1537 as a mud fort. The builder was Kempe Gowda I, a vassal of the Vijaynagar Empire and the founder of Bangalore. Hyder Ali in 1761 replaced the mud fort with a stone fort and it was further improved by his son Tipu Sultan in the late 18th century. It was damaged during an Anglo-Mysore war in 1791. It still remains a good example of 18th-century military fortification. The army of the British East India Company, led by Lord Cornwallis on 21 March 1791 captured the fort in the siege of Bangalore during the Third Mysore War. At the time the fort was a stronghold for Tipu Sultan. Today, the fort's Delhi gate, on Krishnarajendra Road, and two bastions are the primary remains of the fort. A marble plaque commemorates the spot where the British breached fort's wall, leading to its capture. The old fort area also includes Tipu Sultan's Summer Palace, and his armoury. The fort has provided the setting for the treasure hunt in the book Riddle of the Seventh Stone."
+      }
+    ]
+  },
+  {
+    "cityId": 2,
+    "name": "Pune",
+    "landmarks": [
+      {
+        "landmarkId": 30,
+        "name": "Dagadusheth Halwai Ganapati Temple",
+        "photo":"GaneshJi",
+        "description":"Shreemant Dagadusheth Halwai Ganapati Temple (Marathi: श्रीमंत दगडूशेठ हलवाई गणपती) in Pune is dedicated to the Hindu God Ganesh. The temple is popular in Maharashtra and is visited by over hundred thousand pilgrims every year."
+      },
+      {
+        "landmarkId": 222,
+        "name": "Sinhagad Fort",
+        "photo":"Sinhgad",
+        "description":"Sinhagad is a hill fortress located at around 35 km southwest of the city of Pune, India. Some of the information available at this fort suggests that the fort could have been built 2000 years ago. The caves and the carvings in the Kaundinyeshwar temple stand as proofs for the same."
+      }
+    ]
+  },
+  {
+    "cityId": 4,
+    "name": "Hyderabad",
+    "landmarks": [
+      {
+        "landmarkId": 30,
+        "name": "Golconda Fort",
+        "photo":"gf",
+        "description":"Golconda Fort, also known as Golkonda is a fortified citadel and an early capital city of the Qutb Shahi dynasty, located in Hyderabad, Telangana, India. Because of the vicinity of diamond mines, especially Kollur Mine, Golconda flourished as a trade centre of large diamonds, known as the Golconda Diamonds. The region has produced some of the world's most famous diamonds, including the colourless Koh-i-Noor, the blue Hope, the pink Daria-i-Noor, the white Regent, the Dresden Green, and the colourless Orlov, Nizam and Jacob, as well as the now lost diamonds Florentine Yellow, Akbar Shah and Great Mogul."
+      },
+      {
+        "landmarkId": 222,
+        "name": "Charminar",
+        "photo":"Sinhgad",
+        "description":"The Charminar, constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become known globally as a symbol of Hyderabad and is listed among the most recognized structures in India. It has also been officially incorporated as the Emblem of Telangana for the state of Telangana. The Charminar's long history includes the existence of a mosque on its top floor for more than 400 years. While both historically and religiously significant, it is also known for its popular and busy local markets surrounding the structure, and has become one of the most frequented tourist attractions in Hyderabad. Charminar is also a site of numerous festival celebrations, such as Eid-ul-adha and Eid al-Fitr. The Charminar is situated on the east bank of Musi river. To the west lies the Laad Bazaar, and to the southwest lies the richly ornamented granite Makkah Masjid."
+      }
+    ]
+  }
+]
